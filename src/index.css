@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(206, 186, 224);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-board {
+  justify-content: center;
+  align-items: center;
+}
+.status {
+  font-size: 26px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-top: 30vh;
+  padding-bottom: 30px;
+}
+
+.square {
+  background-color: rgb(51, 32, 4);
+  color: rgb(214, 214, 214);
+  width: 40px;
+  height: 40px;
+}
+
+.board-row {
+  display: flex;
+}
