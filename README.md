@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This is a Tic Tac Toe project that I built by following the official React tutorial. It demonstrates fundamental concepts in React, such as components, state, and props, while building a classic game.
+This is a Tic Tac Toe project that I built by following the official [React tutorial](https://react.dev/learn/tutorial-tic-tac-toe). It demonstrates fundamental concepts in React, such as components, state, and props, while building a classic game.
 
 ## Features
 * Play a two-player game of Tic Tac Toe.
