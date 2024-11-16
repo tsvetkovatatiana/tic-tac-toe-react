@@ -6,7 +6,7 @@
   "homepage": "https://tsvetkovatatiana.github.io/tic-tac-toe-react",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
